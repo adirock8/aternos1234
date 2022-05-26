@@ -1,0 +1,5 @@
+{
+	"ip":"hyperland_smp.aternos.me",
+	"port": "40199",
+	"name": "afkbot20063"
+}
